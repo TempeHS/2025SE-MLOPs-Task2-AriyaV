@@ -1,7 +1,6 @@
-# Project Title
+# Cardiovascular Disease Presence Predictor
 
-Simple overview of use/purpose.
-
+The purpose of this project is to design a machine learning model that predicts whether or not an individual has a cardiovascular disease. 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
